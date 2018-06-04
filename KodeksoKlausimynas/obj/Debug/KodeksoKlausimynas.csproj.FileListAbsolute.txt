@@ -1,0 +1,13 @@
+C:\Users\edgar\Documents\Projects\Random_Programs\KodeksoKlausimynas\KodeksoKlausimynas\bin\Debug\KodeksoKlausimynas.exe.config
+C:\Users\edgar\Documents\Projects\Random_Programs\KodeksoKlausimynas\KodeksoKlausimynas\bin\Debug\KodeksoKlausimynas.exe
+C:\Users\edgar\Documents\Projects\Random_Programs\KodeksoKlausimynas\KodeksoKlausimynas\bin\Debug\KodeksoKlausimynas.pdb
+C:\Users\edgar\Documents\Projects\Random_Programs\KodeksoKlausimynas\KodeksoKlausimynas\obj\Debug\KodeksoKlausimynas.Main.resources
+C:\Users\edgar\Documents\Projects\Random_Programs\KodeksoKlausimynas\KodeksoKlausimynas\obj\Debug\KodeksoKlausimynas.Properties.Resources.resources
+C:\Users\edgar\Documents\Projects\Random_Programs\KodeksoKlausimynas\KodeksoKlausimynas\obj\Debug\KodeksoKlausimynas.csproj.GenerateResource.Cache
+C:\Users\edgar\Documents\Projects\Random_Programs\KodeksoKlausimynas\KodeksoKlausimynas\obj\Debug\KodeksoKlausimynas.exe
+C:\Users\edgar\Documents\Projects\Random_Programs\KodeksoKlausimynas\KodeksoKlausimynas\obj\Debug\KodeksoKlausimynas.pdb
+C:\Users\edgar\Documents\Projects\Random_Programs\KodeksoKlausimynas\KodeksoKlausimynas\bin\Debug\KodeksoKlausimynas.exe.manifest
+C:\Users\edgar\Documents\Projects\Random_Programs\KodeksoKlausimynas\KodeksoKlausimynas\bin\Debug\KodeksoKlausimynas.application
+C:\Users\edgar\Documents\Projects\Random_Programs\KodeksoKlausimynas\KodeksoKlausimynas\obj\Debug\KodeksoKlausimynas.exe.manifest
+C:\Users\edgar\Documents\Projects\Random_Programs\KodeksoKlausimynas\KodeksoKlausimynas\obj\Debug\KodeksoKlausimynas.application
+C:\Users\edgar\Documents\Projects\Random_Programs\KodeksoKlausimynas\KodeksoKlausimynas\obj\Debug\KodeksoKlausimynas.csprojResolveAssemblyReference.cache
